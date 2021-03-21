@@ -1,8 +1,13 @@
 ---
 permalink: /about/
-title: "About"
+title: "안녕하세요 :wave:"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+**Ryan Choi**입니다.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+**기획자**이자 **to-be 개발자**입니다.
+
+멈춰있는 듯 보이지만 어느 순간 보면 저만치 멀어지는 한 낮의 해처럼
+매일 작지만 의미있는 한 걸음을 내딛는 삶을 살아갑니다.
+
+그리고 그 작은 흔적들을 이 곳에 남깁니다.
